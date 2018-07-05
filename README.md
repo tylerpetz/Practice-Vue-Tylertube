@@ -1,8 +1,10 @@
-# PROJECT BLAH BLAH
+# VUE Video Browser with BULMA JS
 
 ## Requirements
 
 For development, you will only need Node.js installed on your environement.
+You'll need an API Key from Youtube, to find that, use google pls.
+In App.vue, add the key to the const API_KEY
 
 ## Install
 
